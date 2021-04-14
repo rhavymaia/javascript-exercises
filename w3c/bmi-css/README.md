@@ -71,5 +71,3 @@ imc.setAttribute('class', 'border border-warning bg-warning text-white')
 Code: [code.zip](code.zip)
 
 ![](assets/layout.gif)
-
-> [Response alternative](code-response/)
